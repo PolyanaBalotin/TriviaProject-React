@@ -24,7 +24,7 @@ Apos o clone utilize **npm install** para instalar as dependencia e **npm start*
 
 # API de Trivia
 
-A [API do Trivia](https://opentdb.com/api_config.php)
+A  [API do Trivia](https://opentdb.com/api_config.php)
 
 # Gravatar
 
