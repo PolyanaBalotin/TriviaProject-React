@@ -29,3 +29,7 @@ Apos o clone utilize **npm install** para instalar as dependencia e **npm start*
 # Gravatar
 
 O Gravatar é um serviço que permite deixar o avatar global a partir do email cadastrado, ele mostra sua foto cadastrada em qualquer site vinculado. Na tela de Inicio, a pessoa que joga pode colocar um e-mail que deve fazer uma consulta a API do [Gravatar](https://br.gravatar.com/site/implement/images/).
+
+# Gif 
+
+![trivia2](https://user-images.githubusercontent.com/83839441/174885275-4828ba2b-dc4f-475b-87ca-6b3cbb2f5be7.gif)
