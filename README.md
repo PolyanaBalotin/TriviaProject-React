@@ -2,9 +2,9 @@
 
 Um jogo de perguntas e respostas com um ranking ao final.
 
-# Comandos
+# Deploy
 
-Apos o clone utilize **npm install** para instalar as dependencia e **npm start** para iniciar.
+https://trivia-project-react.vercel.app/
 
 # Habilidades
 
